@@ -1,0 +1,6 @@
+# nginx runtime artifacts
+_logs/
+*.pid
+
+# local editor/agent settings
+.claude/
